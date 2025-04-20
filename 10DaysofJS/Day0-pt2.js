@@ -76,7 +76,7 @@ let sum = parseInt(firstInteger) + parseInt(secondInteger);
 
 // Write code that uses console.log to print the sum of 'firstDecimal' and 'secondDecimal' (converted to a Number            type) on a new line.
     
-let sum2 = parseFloat(firstDecimal) + parseFloa(secondDecimal);
+let sum2 = parseFloat(firstDecimal) + parseFloat(secondDecimal);
 console.log(sum2);
 
  // Write code that uses console.log to print the concatenation of 'firstString' and 'secondString' on a new line. The        variable 'firstString' must be printed first.
